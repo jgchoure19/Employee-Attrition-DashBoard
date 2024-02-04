@@ -7,14 +7,14 @@ This project focuses on leveraging employee data to predict and analyze attritio
 ## Objectives
 
 - **Prediction:**
-- Utilize predictive analytics to forecast potential employee attrition, allowing for proactive measures to be taken.
+  Utilize predictive analytics to forecast potential employee attrition, allowing for proactive measures to be taken.
 
 - **Analysis:**
--  Conduct in-depth analysis to uncover patterns, trends, and potential drivers of employee attrition within the organization.
+  Conduct in-depth analysis to uncover patterns, trends, and potential drivers of employee attrition within the organization.
 
 ## Steps
 
-1. **Data Collection:**
+1. ###**Data Collection:**
    Gather comprehensive employee data, encompassing various aspects such as demographics, job roles, performance metrics, and tenure.
 
 2. **Data Cleaning:**
