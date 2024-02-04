@@ -17,22 +17,22 @@ This project focuses on leveraging employee data to predict and analyze attritio
 1. ### Data Collection:
    Gather comprehensive employee data, encompassing various aspects such as demographics, job roles, performance metrics, and tenure.
 
-2. **Data Cleaning:**
+2. ### Data Cleaning:
    Ensure data integrity by addressing inconsistencies, missing values, and formatting issues.
    
-3. **Data Formatting for Calculations:**
+3. ### Data Formatting for Calculations:
    We formatted the data to ensure it's suitable for calculations, allowing us to derive meaningful insights.
 
-4. **Exploratory Data Analysis (EDA):**
+4. ### Exploratory Data Analysis (EDA):
    Conduct EDA to gain preliminary insights into the data and identify potential patterns or correlations.
    
-5. **Grouping Columns for Multiple Values:**
+5. ### Grouping Columns for Multiple Values:
     To enhance the effectiveness of our analysis, we strategically grouped columns to better understand various aspects of employee attrition.
 
-6. **Visualization:**
+6. ### Visualization:
   Leverage visualization tools to present key findings and insights in a clear and interpretable manner.
 
-7. **Interpretation:**
+7. ### Interpretation:
     Analyze model results and identify factors contributing to attrition. Provide actionable insights for organizational decision-making.
 
 ## Future Steps
