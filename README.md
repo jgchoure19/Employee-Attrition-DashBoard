@@ -1,5 +1,8 @@
 # Employee Attrition Analysis
 
+## Dashboard Preview
+![Employee Attrition Dashboard](https://raw.githubusercontent.com/jgchoure19/Employee-Attrition-DashBoard/main/Emp_Attrition.png)
+
 ## Project Overview
 
 This project focuses on leveraging employee data to predict and analyze attrition details. By understanding the underlying reasons for employee attrition, we aim to gain valuable insights that can inform strategic decisions and enhance overall workforce management.
@@ -39,9 +42,6 @@ This project focuses on leveraging employee data to predict and analyze attritio
 
 Continuously refine and optimize the predictive models based on new data and evolving organizational dynamics. Implement strategies and policies informed by insights to proactively manage and mitigate employee attrition.
 
-
-## Dashboard Preview
-![Employee Attrition Dashboard](https://raw.githubusercontent.com/jgchoure19/Employee-Attrition-DashBoard/main/Emp_Attrition.png)
 
 Let's work together to create a more insightful and resilient workforce!
 
