@@ -14,7 +14,7 @@ This project focuses on leveraging employee data to predict and analyze attritio
 
 ## Steps
 
-1. ###**Data Collection:**
+1. ### Data Collection:
    Gather comprehensive employee data, encompassing various aspects such as demographics, job roles, performance metrics, and tenure.
 
 2. **Data Cleaning:**
